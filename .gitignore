@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+cek_hutan.db
+.env
